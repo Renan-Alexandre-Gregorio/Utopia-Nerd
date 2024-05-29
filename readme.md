@@ -1,5 +1,7 @@
 # UTOPIA NERD
 
+[Logo Inicial]()
+
 ## O que fazemos?
 
 Nós da Utopia Nerd, nos preocupamos com a qualidade dos nossos produtos e da felicidade de nossos clientes, por isso,
@@ -41,7 +43,7 @@ Também agradecemos as pessoas que trabalham na loja da Utopia Nerd, que são:
 
 ### Zuleika
 
-### Broly
+### Broly?!
 
 Agradecemos as empresas que nos deram suporte no nosso crescimento:
 
@@ -52,3 +54,5 @@ Agradecemos as empresas que nos deram suporte no nosso crescimento:
 E por fim, agrademos a VOCÊ, por comprar na nossa loja 😍
 
 ## E encerramos de maneira bem Nerd na UTOPIA NERD 🤓
+
+![Logo Final](https://github.com/Renan-Alexandre-Gregorio/Utopia-Nerd/blob/master/miniaturas/thumbnail_image.png)
