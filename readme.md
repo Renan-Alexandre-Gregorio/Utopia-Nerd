@@ -4,7 +4,7 @@
 
 Nós da Utopia Nerd, nos preocupamos com a qualidade dos nossos produtos e da felicidade de nossos clientes, por isso,
 temos produtos da melhor categoria, que são Colecionáveis de edição limitada, jogos, HQs de edição limitada, etc. Fazemos de tudo para
-o cliente sair com um grande sorriso de nossa loja.
+o cliente sair com um grande sorriso de nossa loja 😁.
 
 ## Qual é a nossa história?
 
@@ -19,3 +19,36 @@ Gostou de saber sobre nós? Deseja comprar algo? Entre no link abaixo para acess
 www.utopianerd.store
 
 ![Print do site](https://github.com/Renan-Alexandre-Gregorio/Utopia-Nerd/blob/master/miniaturas/Site.png)
+
+## Como desenvolvemos nosso site?
+
+Nosso site possuí programação em HTML e CSS que é atualizado frequentemente, para evitar bugs ou dos códigos ficarem desatualizados.
+Nossa equipe de moderação está sempre de olho 👀 para que o site se mantenha limpo e bonito para você consumidor.
+
+## Agradecimentos
+
+Agradecemos aos desenvolvedores do site oficial da Utopia Nerd, cujo o perfil do Git Hub são:
+
+### Renan-Alexandre-Gregorio
+
+### joao-Gabriel-Bf2007
+
+Também agradecemos as pessoas que trabalham na loja da Utopia Nerd, que são:
+
+### Pafúncio
+
+### Epaminondas
+
+### Zuleika
+
+### Broly
+
+Agradecemos as empresas que nos deram suporte no nosso crescimento:
+
+### Pafúncio Soft
+
+### Anarfa Consultoria
+
+E por fim, agrademos a VOCÊ, por comprar na nossa loja 😍
+
+## E encerramos de maneira bem Nerd na UTOPIA NERD 🤓
