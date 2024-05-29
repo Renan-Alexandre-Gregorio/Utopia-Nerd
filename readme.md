@@ -18,4 +18,4 @@ fazer essa marca continuar crescendo, até que ela chegue em todo o Brasil.
 Gostou de saber sobre nós? Deseja comprar algo? Entre no link abaixo para acessar o site oficial da Utopia Nerd:
 www.utopianerd.store
 
-![Print do site]()
+![Print do site](https://github.com/Renan-Alexandre-Gregorio/Utopia-Nerd/blob/master/miniaturas/Site.png)
