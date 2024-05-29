@@ -1,6 +1,6 @@
 # UTOPIA NERD
 
-[Logo Inicial]()
+[Logo Inicial](https://github.com/Renan-Alexandre-Gregorio/Utopia-Nerd/blob/master/miniaturas/thumbnail_Banner%202024-05-21%20082127.png)
 
 ## O que fazemos?
 
